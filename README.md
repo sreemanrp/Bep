@@ -1,23 +1,11 @@
-## Guard
+Hey everyone! We've been **hard at work**, developing our own, **public moderation bot**: ``@Guard#0618``.
 
-A lightweight, high-precision moderation & community-management system built to keep servers safe, organized, and running smoothly. Guard delivers fast responses, intelligent filtering, and a streamlined workflow for moderators — all without unnecessary complexity.
+Development is still in its **early stages**, but we're eager to make this one of the **best**, and most **accessible/e2u** moderation bots on the platform.
 
-### Features
+We're now looking into finding **5-10 "Pre-Alpha" consulters**, who help us refine feature concepts, come up with more exciting ideas (on top of what we already have planned/made), and more.
 
-- **Real-time Moderation**  
-  Auto-detect, filter, and respond to harmful or unwanted messages.
+> Before you sign up for the group, please keep in mind that you have to be **at least 16 years old** in order to be allowed to take part in this closed testing phase.
 
-- **Role-based Access**  
-  Moderators, admins, and staff can perform actions securely using role-restricted commands.
+To sign up, please contact ``@sreemanrp``.
 
-- **Logging Suite**  
-  Tracks moderation events, joins/leaves, edits/deletes, filtered messages, and more.
-
-- **Auto-Actions**  
-  Auto-kick, auto-warn, mute handling, and language detection options.
-
-- **Customizable Prefix & Slash Commands**  
-  Easy command configuration for any server style.
-
-- **Database Required**  
-  Stores essential data for smooth and reliable operation.
+We will hand-pick the participants next week.
